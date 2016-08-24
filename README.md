@@ -1,5 +1,5 @@
 # UnistrokeRecognizer
-单笔手写识别
+单笔手写识别、手势识别
 
 根据 <a>http://depts.washington.edu/aimgroup/proj/dollar/index.html</a> 修改版
 
@@ -22,3 +22,5 @@ addGesture(name: string, points: Point[]): void;
  */
 recognize(points: Point[], useProtractor: boolean): Result;
 ```
+
+==>>顺便点颗星
